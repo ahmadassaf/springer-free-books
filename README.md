@@ -1,4 +1,4 @@
-With the Coronavirus outbreak having an unpretextbookscedented impact on education, Springer Nature is launching a global program to support learning and teaching at higher education institutions worldwide. Remote access to educational resources has become essential. Springer want to support lecturers, teachers and students during this challenging period and hope that this initiative will go some way to help.
+With the Coronavirus outbreak having an unprecedented impact on education, Springer Nature is launching a global program to support learning and teaching at higher education institutions worldwide. Remote access to educational resources has become essential. Springer want to support lecturers, teachers and students during this challenging period and hope that this initiative will go some way to help.
 
 I've created this repo based on the Excel sheet file provided by Springer directly, hoping that it can allow easier access to their materials.
 
